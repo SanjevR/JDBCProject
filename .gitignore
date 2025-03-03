@@ -1,0 +1,12 @@
+# Git Ignore 
+# Ignore node_modules
+jdbc-app/node_modules/
+
+# Ignore Maven target folder
+myproject/target/
+
+# Ignore OS/Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
